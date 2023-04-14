@@ -11,8 +11,12 @@ follow  the flipper [Guide](https://docs.flipperzero.one/basics/first-start)
 After you have done that it is time to install the firmeware on the flipper. here you need to decode if you just want it vanilla or godmode.
 <div style="border:1px solid #ccc; padding:10px;">
   
-#### Box Title
+#### Choose Your Mode
   
-vanilla.
+Select one of the following options:
+  
+- Vanilla
+- Godmode
   
 </div>
+
