@@ -12,6 +12,7 @@ follow  the flipper [Guide](https://docs.flipperzero.one/basics/first-start)
 
 After you have done that it is time to install the firmeware on the flipper. here you need to decode if you just want it vanilla or godmode.
 Note thet if you plan to use the wifi dev board with the <a href="https://github.com/justcallmekoko/ESP32Marauder">Marauder </a> firmare you need to use Godmode
+for the godmode i use the <a href="[https://github.com/PierreGode/Flipper-walkthrough/wiki/Vanilla](https://github.com/DarkFlippers/unleashed-firmware)">unleashed-firmware </a> there are other firmware, but i will reflect this guide based on my setup
 
 <a href="https://github.com/PierreGode/Flipper-walkthrough/wiki/Vanilla">Vanilla </a><p><a href="https://github.com/PierreGode/Flipper-walkthrough/wiki/Godmode">Godmode </a>
 
