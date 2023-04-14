@@ -12,4 +12,4 @@ After you have done that it is time to install the firmeware on the flipper. her
                               Vanilla                 Godmode                 
 
 
-<p>Also see<a href="https://github.com/PierreGode/Flipper-walkthrough/wiki/Vanilla">Vanilla </a></p>
+<a href="https://github.com/PierreGode/Flipper-walkthrough/wiki/Vanilla">Vanilla </a><a href="https://github.com/PierreGode/Flipper-walkthrough/wiki/Godmode">Godmode </a>
