@@ -1,8 +1,8 @@
 # Flipper-walkthrough
 
-First thing to do is update the firmware on your flipper.
 ![image](https://user-images.githubusercontent.com/8579922/232074175-083f59d0-f3ab-455e-a259-0dc58ac2f473.png)
 
+First thing to do is update the firmware on your flipper.
 
 Before updating the firmware on your Flipper Zero, it is important to insert a microSD card into the device. This is necessary as the Flipper Zero databases are stored on the microSD card. 
 No poin to even start your flipper the first time without a microSD card.
