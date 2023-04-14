@@ -9,14 +9,15 @@ For more information on the importance of the microSD card and how it works with
 follow  the flipper [Guide](https://docs.flipperzero.one/basics/first-start)
 
 After you have done that it is time to install the firmeware on the flipper. here you need to decode if you just want it vanilla or godmode.
-<div style="border:1px solid #ccc; padding:10px;">
-  
-#### Choose Your Mode
-  
-Select one of the following options:
-  
-- Vanilla
-- Godmode
-  
+<div style="display:flex; justify-content:space-around;">
+  <div style="border:1px solid #ccc; padding:10px; width:45%;">
+    <h4>Vanilla</h4>
+    <p>This is the vanilla mode.</p>
+  </div>
+  <div style="border:1px solid #ccc; padding:10px; width:45%;">
+    <h4>Godmode</h4>
+    <p>This is the godmode.</p>
+  </div>
 </div>
+
 
