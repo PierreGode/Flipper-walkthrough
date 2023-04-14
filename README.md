@@ -12,4 +12,4 @@ After you have done that it is time to install the firmeware on the flipper. her
 Note thet if you plan to use the wifi dev board with the <a href="https://github.com/justcallmekoko/ESP32Marauder">Marauder </a> firmare you need to use Godmode
 
 <a href="https://github.com/PierreGode/Flipper-walkthrough/wiki/Vanilla">Vanilla </a><p><a href="https://github.com/PierreGode/Flipper-walkthrough/wiki/Godmode">Godmode </a>
-https://github.com/justcallmekoko/ESP32Marauder
+
