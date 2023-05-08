@@ -17,3 +17,4 @@ Note that if you plan to use the wifi dev board with the <a href="https://github
 for the Godmode i use the <a href="https://github.com/DarkFlippers/unleashed-firmware">unleashed-firmware</a> there are other firmware, but i will reflect this guide based on my setup
 
 <a href="https://github.com/PierreGode/Flipper-walkthrough/wiki/Vanilla">Vanilla </a><p><a href="https://github.com/PierreGode/Flipper-walkthrough/wiki/Godmode">Godmode </a>
+[esp32_marauder_v0_10_3_20230414_flipper_sd_serial.zip](https://github.com/PierreGode/Flipper-walkthrough/files/11420566/esp32_marauder_v0_10_3_20230414_flipper_sd_serial.zip)
