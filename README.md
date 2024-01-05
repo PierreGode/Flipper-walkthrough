@@ -1,5 +1,8 @@
 # Flipper-walkthrough
 
+The Flipper Zero is a portable, multi-functional device designed for enthusiasts in fields like DIY electronics, and cybersecurity. It's a pocket-sized tool that combines various functionalities related to digital communication and control. Its design is inspired by the concept of a multitool, allowing users to interact with a wide range of digital systems and devices.
+The Flipper Zero serves as an excellent learning tool, particularly for those interested in electronics, radio communications, cybersecurity, and DIY projects. Its educational value lies in several key aspects.
+
 <p>
 
 ![image](https://user-images.githubusercontent.com/8579922/232074175-083f59d0-f3ab-455e-a259-0dc58ac2f473.png)
